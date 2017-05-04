@@ -1,0 +1,24 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "FCC Backend Developer exercise",
+  "main": "server.js",
+  "engines": {
+    "node": "7.8.0",
+    "npm": "4.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fcc",
+    "header",
+    "parser"
+  ],
+  "author": "Eduardo Santillana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-useragent": "^1.0.7"
+  }
+}
